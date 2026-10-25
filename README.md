@@ -1,33 +1,31 @@
-# DiaTech: Product Discovery and Validation
+# DiaTech: a diabetes self-care concept
 
-A university startup-development case study for a **type-2 diabetes self-care product concept**. The team explored user needs, existing alternatives, a proposed business model and feedback on an MVP.
+**Would people with type-2 diabetes keep using a self-care app?** That turned out to be the real question. Ten interviews moved our concept from logging everything to logging a little every day, built around Iranian food and the family member who worries.
 
-**Product discovery · competitor analysis · interviews · MVP feedback · business-model design**
+<img src="assets/business-model-canvas.png" width="640" alt="DiaTech business model canvas">
 
-## Product question
+*Product discovery · interviews · competitor analysis · MVP feedback* · Reports in Persian: [Discovery and validation](docs/discovery-and-validation-fa.pdf) · [Presentation](docs/presentation-fa.pdf)
 
-The original project examines difficulties in daily food and self-care tracking, and explores how a digital product could make those tasks easier. The material documents a product concept and its course validation work.
+## What we did
 
-## Artifacts
+- Interviewed 10 people in three groups: patients with type-2 diabetes or prediabetes, family caregivers, and doctors and nutritionists.
+- Compared existing apps, including mySugr, Glucose Buddy and One Drop.
+- Tested an MVP with classmates and revised the business model from their feedback.
+- **My part:** the deeper competitor analysis, interviews, and the presentation slides and video.
 
-- [Discovery and validation report in Persian](docs/discovery-and-validation-fa.pdf)
-- [Project presentation in Persian](docs/presentation-fa.pdf)
-- [Business-model canvas](assets/business-model-canvas.png)
+## What we found
 
-![Original business-model canvas](assets/business-model-canvas.png)
+- **The risk isn't the problem, it's sticking with the solution.** Everyone agreed diabetes needs daily care; the open question is whether people keep using an app.
+- **Iranian food is the gap.** How much oil is in ghormeh sabzi? What does tahdig do to blood sugar? Foreign calorie counters can't say, and it was the point raised most often.
+- **The payer is often the worried family member,** not the patient who has gotten used to the condition. "He has no patience for apps. I install them for him."
+- **Retention over features.** We cut low-use features and aimed for a little logging every day, measured by daily against monthly active users rather than installs.
 
-## My documented contribution
+## Files
 
-The phase-one responsibility table records **Moeinreza Bagheri's** contribution as:
+| Path | What's there |
+| --- | --- |
+| [`docs/discovery-and-validation-fa.pdf`](docs/discovery-and-validation-fa.pdf) | Interview questions and answers, insight tables and pivot decisions (37 pages) |
+| [`docs/presentation-fa.pdf`](docs/presentation-fa.pdf) | The project presentation |
+| [`assets/business-model-canvas.png`](assets/business-model-canvas.png) | The business model canvas |
 
-- Preparing the presentation slides and recording that phase's presentation.
-- Extending the competitor analysis.
-- Conducting questionnaire-related interviews.
-
-The same table assigns MVP construction and parts of its evaluation to other team members. These contributions are credited separately in the report.
-
-## Team and course context
-
-**NGC Group / Next Generation Coders**: Moeinreza Bagheri, Amirhossein Moallemi, Nazanin Salehi and Mohsen Moshrefi.
-
-Course: **Startup Development**, University of Isfahan. This repository presents the group's product-design work and the original recorded responsibilities. It does not describe a launched clinical product.
+**NGC Group (Next Generation Coders):** Moeinreza Bagheri, Amirhossein Moallemi, Nazanin Salehi and Mohsen Moshrefi. Startup Development course, University of Isfahan, 2025. A course concept, not a launched product.
